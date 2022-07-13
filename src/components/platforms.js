@@ -58,7 +58,7 @@ const PlatformName = styled.div`
 const platforms = [
   {
     name: 'VS Code',
-    url: 'https://marketplace.visualstudio.com/items?itemName=arvinmostafaei.-vscode',
+    url: 'https://marketplace.visualstudio.com/items?itemName=arvinmostafaei.-chiavscode',
     logo: VSCode,
   }
 ];
